@@ -1,0 +1,10 @@
+Package: gem
+Type: Package
+Title: Genome Environment Models utils
+Version: 0.1.0
+Author: Moises Exposito Alonso <moisesexpositoalonso@gmail.com>
+Maintainer: Moises Exposito Alonso <moisesexpositoalonso@gmail.com>
+Description: Utils to conduct environmental niche models with genetic data.
+License: MIT licence
+Encoding: UTF-8
+LazyData: true
