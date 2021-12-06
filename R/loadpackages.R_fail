@@ -1,0 +1,16 @@
+## Load packages
+library(devtools)
+library(dplyr)
+library(tidyr)
+library(ggplot2)
+library(cowplot)
+library(caret)
+library(data.table)
+library(raster)
+library(RColorBrewer)
+library(randomForest)
+library(caret)
+library(Rcpp)
+library(latex2exp)
+load_all('~/moiR')
+
